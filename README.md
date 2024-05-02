@@ -29,7 +29,7 @@ Para executar o projeto localmente, siga estas etapas:
 1. Clone o repositório:
 
 ```
-git clone [https://github.com/vidallamanda/projeto-api-restfull.git]
+git clone https://github.com/vidallamanda/projeto-api-restfull.git
 ```
 
 2. Navegue até o diretório do projeto:
